@@ -12,7 +12,7 @@ Below is a UML Diagram of the TestQueue.java,
 
 2) isPalindrome.java is an application where both Stack and Queue are utilized to check whether the given word is in a symmetric language (i.e., palindrome)
 
-- By definition, palindrome = {str | str reads the same left to right as right to left}
+- By definition, palindrome = {<b>str</b> | <b>str</b> reads the same left to right as right to left}
 
  This program executes the classes QueueArraybased.java and StackArrayBased.java.
 
