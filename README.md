@@ -8,7 +8,7 @@ This project has a Queue Implementation (in three ways), a Stack Implementation 
 
 Below is a UML Diagram of the TestQueue.java,
 
-![UML Diagram](https://github.com/azamzow/isPalindrome/blob/master/UML Diagram.png?raw=true)
+![UML Diagram](https://github.com/azamzow/isPalindrome/blob/master/UML%20Diagram.png?raw=true)
 
 2) isPalindrome.java is an application where both Stack and Queue are utilized to check whether the given word is in a symmetric language (i.e., palindrome)
 
