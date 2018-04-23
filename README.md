@@ -2,7 +2,7 @@
 
 ### Description
 
-This project has a Queue Implementation (in three ways), a Stack Implementation (in three ways), and a isPalindrome (using Stack and Queue). The three ways that they are implemented is array-based list-based, and reference-based. 
+This project has a Queue Implementation (in three ways), a Stack Implementation (in three ways), and a isPalindrome (using Stack and Queue). The three ways that they are implemented is array-based, list-based, and reference-based. 
 
 1) TestQueue.java utilizes the three Queue implementations in the classes QueueArrayBased.java, QueueReferenceBased.java, and QueueListBased.java. Each of these classes implement queueInterface class.
 
